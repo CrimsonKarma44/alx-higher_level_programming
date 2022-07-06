@@ -7,4 +7,4 @@ def uniq_add(my_list=[]):
           continue
        listd.append(i)
        count += i
-    return ("Result: {}".format(count))
+    return (count)
